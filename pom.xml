@@ -30,8 +30,6 @@
       </plugin>
     </plugins>
   </build>
-
-  <!-- 🔥 ADD THIS -->
   <distributionManagement>
     <repository>
       <id>nexus</id>
