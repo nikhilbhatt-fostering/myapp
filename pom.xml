@@ -7,7 +7,7 @@
   <groupId>com.example</groupId>
   <artifactId>myapp</artifactId>
   <packaging>war</packaging>
-  <version>1.0</version> <!-- ✅ RELEASE VERSION -->
+  <version>1.0</version> 
 
   <name>myapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
